@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    padding: 30px;
+}
+.add_form {
+    width: 350px;
+    min-height: 250px;
+    padding: 20px;
+}
+h3{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.show_table {
+    width: 350px;
+    min-height: 250px;
+    padding: 20px;
+}
